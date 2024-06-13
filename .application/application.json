@@ -197,6 +197,154 @@
                   "mobileLeftColumn": 4,
                   "buttonVariant": "PRIMARY",
                   "placement": "CENTER"
+                },
+                {
+                  "boxShadow": "none",
+                  "iconSVG": "/static/media/icon.f4dd498ee72f01127e5bfe3a1a8ad671.svg",
+                  "topRow": 39,
+                  "labelWidth": 5,
+                  "type": "INPUT_WIDGET_V2",
+                  "animateLoading": true,
+                  "resetOnSubmit": true,
+                  "leftColumn": 4,
+                  "dynamicBindingPathList": [
+                    {
+                      "key": "accentColor"
+                    },
+                    {
+                      "key": "borderRadius"
+                    }
+                  ],
+                  "labelStyle": "",
+                  "inputType": "TEXT",
+                  "isDisabled": false,
+                  "isRequired": false,
+                  "dynamicHeight": "FIXED",
+                  "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+                  "onCanvasUI": {
+                    "selectionBGCSSVar": "--on-canvas-ui-widget-selection",
+                    "focusBGCSSVar": "--on-canvas-ui-widget-focus",
+                    "selectionColorCSSVar": "--on-canvas-ui-widget-focus",
+                    "focusColorCSSVar": "--on-canvas-ui-widget-selection",
+                    "disableParentSelection": false
+                  },
+                  "showStepArrows": false,
+                  "isVisible": true,
+                  "version": 2,
+                  "tags": [
+                    "Suggested",
+                    "Inputs"
+                  ],
+                  "isLoading": false,
+                  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+                  "needsErrorInfo": false,
+                  "mobileBottomRow": 46,
+                  "widgetName": "Input1",
+                  "displayName": "Input",
+                  "searchTags": [
+                    "form",
+                    "text input",
+                    "number",
+                    "textarea"
+                  ],
+                  "bottomRow": 46,
+                  "parentRowSpace": 10,
+                  "autoFocus": false,
+                  "hideCard": false,
+                  "mobileRightColumn": 24,
+                  "parentColumnSpace": 29.328125,
+                  "labelPosition": "Top",
+                  "key": "4q7lk14rgv",
+                  "labelTextSize": "0.875rem",
+                  "isDeprecated": false,
+                  "rightColumn": 24,
+                  "thumbnailSVG": "/static/media/thumbnail.a4eac1a16753ea7fc54cac7731f9ea6a.svg",
+                  "widgetId": "7a2ngvke88",
+                  "minWidth": 450,
+                  "label": "Label",
+                  "parentId": "0",
+                  "labelAlignment": "left",
+                  "renderMode": "CANVAS",
+                  "mobileTopRow": 39,
+                  "responsiveBehavior": "fill",
+                  "mobileLeftColumn": 4,
+                  "maxDynamicHeight": 9000,
+                  "iconAlign": "left",
+                  "defaultText": "",
+                  "minDynamicHeight": 4
+                },
+                {
+                  "boxShadow": "none",
+                  "dateFormat": "YYYY-MM-DD HH:mm",
+                  "iconSVG": "/static/media/icon.42ea2261c1fd35ebb9e4549b5028de76.svg",
+                  "topRow": 24,
+                  "labelWidth": 5,
+                  "type": "DATE_PICKER_WIDGET2",
+                  "animateLoading": true,
+                  "leftColumn": 22,
+                  "dynamicBindingPathList": [
+                    {
+                      "key": "accentColor"
+                    },
+                    {
+                      "key": "borderRadius"
+                    }
+                  ],
+                  "isDisabled": false,
+                  "isRequired": false,
+                  "dynamicHeight": "FIXED",
+                  "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+                  "onCanvasUI": {
+                    "selectionBGCSSVar": "--on-canvas-ui-widget-selection",
+                    "focusBGCSSVar": "--on-canvas-ui-widget-focus",
+                    "selectionColorCSSVar": "--on-canvas-ui-widget-focus",
+                    "focusColorCSSVar": "--on-canvas-ui-widget-selection",
+                    "disableParentSelection": false
+                  },
+                  "isVisible": true,
+                  "datePickerType": "DATE_PICKER",
+                  "version": 2,
+                  "tags": [
+                    "Inputs"
+                  ],
+                  "isLoading": false,
+                  "timePrecision": "minute",
+                  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+                  "closeOnSelection": true,
+                  "needsErrorInfo": false,
+                  "mobileBottomRow": 31,
+                  "widgetName": "DatePicker1",
+                  "minDate": "1920-12-31T18:30:00.000Z",
+                  "displayName": "DatePicker",
+                  "searchTags": [
+                    "calendar"
+                  ],
+                  "bottomRow": 31,
+                  "shortcuts": false,
+                  "parentRowSpace": 10,
+                  "hideCard": false,
+                  "mobileRightColumn": 42,
+                  "parentColumnSpace": 29.328125,
+                  "labelPosition": "Top",
+                  "key": "ogbuyjcpjb",
+                  "labelTextSize": "0.875rem",
+                  "defaultDate": "2024-06-13T08:58:49.704Z",
+                  "isDeprecated": false,
+                  "rightColumn": 42,
+                  "thumbnailSVG": "/static/media/thumbnail.6f2ddea04e74f31810326bef3bc239b8.svg",
+                  "widgetId": "im6e3urtml",
+                  "minWidth": 450,
+                  "label": "Label",
+                  "parentId": "0",
+                  "labelAlignment": "left",
+                  "renderMode": "CANVAS",
+                  "mobileTopRow": 24,
+                  "responsiveBehavior": "fill",
+                  "mobileLeftColumn": 22,
+                  "maxDynamicHeight": 9000,
+                  "firstDayOfWeek": 0,
+                  "maxDate": "2121-12-31T18:29:00.000Z",
+                  "minDynamicHeight": 4
                 }
               ]
             },
@@ -244,7 +392,7 @@
                   "needsErrorInfo": false,
                   "boxShadow": "none",
                   "mobileBottomRow": 51,
-                  "widgetName": "Button1",
+                  "widgetName": "1231ddd",
                   "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
                   "displayName": "Button",
                   "iconSVG": "/static/media/icon.cb7371e9a48acf9db0f2f3ea0a714255.svg",
