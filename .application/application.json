@@ -77,7 +77,7 @@
                   "needsErrorInfo": false,
                   "boxShadow": "none",
                   "mobileBottomRow": 51,
-                  "widgetName": "Button1",
+                  "widgetName": "1231ddd",
                   "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
                   "displayName": "Button",
                   "iconSVG": "/static/media/icon.cb7371e9a48acf9db0f2f3ea0a714255.svg",
@@ -860,8 +860,15 @@
     "isAllModified": false,
     "modifiedResourceMap": {
       "customJSLibList": [],
-      "actionList": [],
-      "pageList": [],
+      "actionList": [
+        "Api3##ENTITY_SEPARATOR##Page1",
+        "Api4##ENTITY_SEPARATOR##Page1",
+        "Api2##ENTITY_SEPARATOR##Page1",
+        "Api1##ENTITY_SEPARATOR##Page1"
+      ],
+      "pageList": [
+        "Page1"
+      ],
       "actionCollectionList": []
     }
   },
