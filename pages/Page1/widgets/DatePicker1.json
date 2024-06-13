@@ -6,7 +6,7 @@
     "labelWidth": 5,
     "type": "DATE_PICKER_WIDGET2",
     "animateLoading": true,
-    "leftColumn": 22,
+    "leftColumn": 21,
     "dynamicBindingPathList": [
         {"key": "accentColor"},
         {"key": "borderRadius"}
@@ -47,7 +47,7 @@
     "labelTextSize": "0.875rem",
     "defaultDate": "2024-06-13T08:58:49.704Z",
     "isDeprecated": false,
-    "rightColumn": 42,
+    "rightColumn": 41,
     "thumbnailSVG": "/static/media/thumbnail.6f2ddea04e74f31810326bef3bc239b8.svg",
     "widgetId": "im6e3urtml",
     "minWidth": 450,
