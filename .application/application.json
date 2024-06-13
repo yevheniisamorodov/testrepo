@@ -1,6 +1,6 @@
 {
   "artifactJsonType": "APPLICATION",
-  "clientSchemaVersion": 1,
+  "clientSchemaVersion": 144444,
   "serverSchemaVersion": 7,
   "exportedApplication": {
     "name": "testrepo (1)",
