@@ -1450,15 +1450,8 @@
     "isAllModified": false,
     "modifiedResourceMap": {
       "customJSLibList": [],
-      "actionList": [
-        "Api3##ENTITY_SEPARATOR##Page1",
-        "Api4##ENTITY_SEPARATOR##Page1",
-        "Api2##ENTITY_SEPARATOR##Page1",
-        "Api1##ENTITY_SEPARATOR##Page1"
-      ],
-      "pageList": [
-        "Page1"
-      ],
+      "actionList": [],
+      "pageList": [],
       "actionCollectionList": []
     }
   },
