@@ -6,7 +6,7 @@
     "type": "INPUT_WIDGET_V2",
     "animateLoading": true,
     "resetOnSubmit": true,
-    "leftColumn": 4,
+    "leftColumn": 31,
     "dynamicBindingPathList": [
         {"key": "accentColor"},
         {"key": "borderRadius"}
@@ -53,7 +53,7 @@
     "key": "4q7lk14rgv",
     "labelTextSize": "0.875rem",
     "isDeprecated": false,
-    "rightColumn": 24,
+    "rightColumn": 51,
     "thumbnailSVG": "/static/media/thumbnail.a4eac1a16753ea7fc54cac7731f9ea6a.svg",
     "widgetId": "7a2ngvke88",
     "minWidth": 450,
